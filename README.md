@@ -1,27 +1,40 @@
 # mini-Projects
-# Daily Coding Practice & Projects
 
-## 🎯 Purpose
-This repository serves as a dedicated log of my daily coding practice, ongoing experiments, and project iterations. The primary goal is to maintain a consistent coding habit, track my technical progress, and build a strong foundation in my core areas of focus.
+Welcome to my interactive mini-projects repository. This workspace contains a collection of small web experiments built with HTML, CSS, and JavaScript.
 
-## 🛠️ Technologies & Focus Areas
-Here are the primary technologies and concepts I am currently practicing and building with:
-* **Languages:** Python, Java, JavaScript
-* **Core Domains:** Artificial Intelligence & Machine Learning (AIML), Web Development
-* **Tools & Integrations:** Automation (Make.com), Git/GitHub
-* **Concepts:** Data Structures, Algorithms, Object-Oriented Programming, and API Integrations
+## 🚀 What You Can Do Here
+Explore each folder, open the `.html` file in your browser, and interact with a different mini app. Every project is designed to be simple, fun, and easy to modify.
 
-## 📂 Repository Structure
-To keep things organized as this repository grows, my daily practice is categorized by domain:
+## 📁 Current Projects
+Each folder contains one small frontend project with its own HTML, CSS, and JavaScript files.
 
-* `/AI_ML_Experiments` - Machine learning models, data processing, and AI scripts.
-* `/Python_Practice` - Algorithmic challenges, data structures, and foundational scripts.
-* `/Web_Development` - Frontend and backend mini-projects and UI components.
-* `/Automations` - Workflow scripts and Make.com project architectures.
-* `/Daily_Logs` - Quick, standalone scripts written for daily problem-solving.
+* `ToggleLikeandUnlike[coding-practice-2b]` - Like/unlike button interaction.
+* `Addition Game` - A simple math game for practicing addition.
+* `Button Maker` - Create buttons and see styles in real time.
+* `cat-light` - A playful interactive light effect with a cat theme.
+* `ColorPick[coding-Practice-1]` - A color picker tool that helps choose colors.
+* `counter` - A counter app for incrementing and decrementing values.
+* `Grocery List` - Add and remove grocery items in a dynamic list.
+* `GuessThenumber` - A number guessing game with interactive feedback.
+* `Random Color Generator` - Generate random colors and preview them.
+* `Tabs` - A basic tabbed content interface.
+* `Todos` - A todo list app for adding and removing tasks.
+* `Traffic[coding-practice-2]` - Season-based traffic image interaction.
+* `TrafficLight[coding-practice-1b]` - A traffic light simulation with controls.
 
-## 🚀 Motivation
-Consistent practice is the key to mastering software development and engineering. By committing code daily, I am building a tangible timeline of my problem-solving skills and technical evolution.
+## 💡 How to Use This Repo
+1. Open a folder for a project you want to inspect.
+2. Open the `.html` file in your browser.
+3. Edit the `.js` or `.css` files to change the behavior or appearance.
+4. Refresh the browser to see your changes instantly.
+
+## 🛠️ Technologies Used
+* HTML
+* CSS
+* JavaScript
+
+## 🧠 Purpose
+This repository is a hands-on journal of frontend practice. It is intended for learning, experimenting, and building confidence with interactive browser-based projects.
 
 ---
-*Always striving for clean code and continuous improvement.*
+*Open a project folder and start experimenting today!*
