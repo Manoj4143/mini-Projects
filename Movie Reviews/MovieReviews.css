@@ -1,0 +1,38 @@
+#movieHeading {
+    font-family: "Roboto";
+    color: #2d3a35;
+}
+
+h5 {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+#titleInput,
+#reviewTextarea {
+    border: 1px solid #cbd2d9;
+    border-radius: 4px;
+    padding: 8px;
+    width: 100%;
+    font-family: "Roboto";
+}
+
+#addBtn {
+    margin-top: 15px;
+}
+
+#reviewsContainer {
+    margin-top: 20px;
+}
+
+#reviewsContainer h1 {
+    font-family: "Roboto";
+    color: #2d3a35;
+    font-size: 24px;
+}
+
+#reviewsContainer p {
+    font-family: "Roboto";
+    color: #7b8794;
+}
